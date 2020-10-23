@@ -20,3 +20,9 @@ All the information will be presented in Jupyter Notebook fashion.
       - Extract data from weekly updates
       - Improve ML models
 8. Checkout of improvement
+
+## Intro
+The dataset which I will work with has been provided by Kaggle.com . If you want to check more information about the dataset, the link will be below:
+    https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data
+    
+   
